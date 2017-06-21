@@ -1,0 +1,2 @@
+# goSafeChromeExtension
+Chromeextension for goSafe
